@@ -1,0 +1,19 @@
+{
+    "name": "priamitrapurba/mvc-mitra",
+    "description": "TugasMVC 2-PRIA MITRA PURBA",
+    "type": "project",
+    "authors": [
+        {
+            "name": "pria-purba",
+            "email": "priapurba3@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
